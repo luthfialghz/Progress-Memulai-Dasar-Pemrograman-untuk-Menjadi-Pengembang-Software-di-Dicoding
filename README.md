@@ -1,7 +1,7 @@
 # Progress Memulai Dasar Pemrograman untuk Menjadi Pengembang Software di Dicoding
 Repository ini berisikan progress belajar pada kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software di Dicoding
 
-Progress pembelajaran sebesar **(67%)**
+Progress pembelajaran sebesar **(100%)**
 
 ## 12 Februari 2022 ##
 ### Modul Pembelajaran ###
@@ -49,4 +49,30 @@ Progress pembelajaran sebesar **(67%)**
   * Tips Sikap Kerja untuk Cara Belajar Pemrograman
   * Rangkuman Mengerti Konsep Dasar Pemrograman
   * Kuis Mengerti Konsep Dasar Pemrograman
-
+* Modifikasi Aplikasi Perangkat Lunak
+  * Pengantar Modifikasi Aplikasi Perangkat Lunak
+  * Pengenalan HTML
+  * Pengenalan CSS
+  * Studi Kasus Aplikasi Login - Persiapan
+  * Instalasi Visual Studio Code
+  * Studi Kasus Aplikasi Login - Modifikasi Antarmuka Aplikasi Perangkat Lunak
+  * Studi Kasus Aplikasi Login - Modifikasi Fungsionalitas Aplikasi Perangkat Lunak
+  * Tips Sikap Kerja untuk Meningkatkan Keahlian Belajar Bahasa Pemrograman
+  * Rangkuman Modifikasi Aplikasi Perangkat Lunak
+  * Kuis Modifikasi Aplikasi Perangkat Lunak
+* Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
+  * Pengantar Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
+  * Apa itu Pengarsipan Versi Perangkat Lunak
+  * Studi Kasus Pengarsipan Versi Perangkat Lunak
+  * Pengenalan Style Guide
+  * Studi Kasus Menyesuaikan Gaya Penulisan Kode Sesuai Standar
+  * Apa itu Komentar pada Kode
+  * Studi Kasus Menambahkan Komentar pada Kode
+  * Pengenalan Dokumentasi Teknis Aplikasi
+  * Studi Kasus Pembuatan Dokumentasi Teknis Aplikasi
+  * Tips Cara Mengomunikasikan Dokumentasi kepada Stakeholders (pemegang kepentingan perusahaan)
+  * Rangkuman dari Dokumentasi 
+  * Kuis Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
+* Penutup
+ * Rangkuman Kelas
+ * Ujian Akhir
