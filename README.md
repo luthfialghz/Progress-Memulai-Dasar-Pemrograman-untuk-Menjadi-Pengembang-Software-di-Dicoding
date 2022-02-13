@@ -74,5 +74,5 @@ Progress pembelajaran sebesar **(100%)**
   * Rangkuman dari Dokumentasi 
   * Kuis Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
 * Penutup
- * Rangkuman Kelas
- * Ujian Akhir
+  * Rangkuman Kelas
+  * Ujian Akhir
