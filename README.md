@@ -1,7 +1,7 @@
 # Progress Memulai Dasar Pemrograman untuk Menjadi Pengembang Software di Dicoding
 Repository ini berisikan progress belajar pada kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software di Dicoding
 
-Progress pembelajaran sebesar **(40%)**
+Progress pembelajaran sebesar **(67%)**
 
 ## 12 Februari 2022 ##
 ### Modul Pembelajaran ###
@@ -26,3 +26,27 @@ Progress pembelajaran sebesar **(40%)**
   * Tips Sikap Kerja dalam Kolaborasi Perencanaan Aplikasi dengan Tim
   * Rangkuman Perencanaan Modifikasi Aplikasi Spesifikasi Kebutuhan Perangkat Lunak
   * Kuis Perencanaan Modifikasi Aplikasi
+## 13 Februari 2022 ##
+### Modul Pembelajaran ###
+* Mengerti Konsep Dasar Pemrograman
+  * Pengenalan Konsep Dasar Pemrograman
+  * Pengenalan Sintaksis dan Case Sensitive
+  * Statement dan Whitespace
+  * Keyword dan Pseudocode
+  * Latihan Menulis Pseudocode
+  * Variabel
+  * Mendeklarasikan dan Menggabungkan Variabel dengan Operator
+  * Tipe Data
+  * Logika Perbandingan
+  * Logika Perulangan
+  * Pengenalan Javascript
+  * Variabel dalam JavaScript
+  * Tipe Data dalam JavaScript
+  * Fungsi dalam Javascript
+  * Logika Perbandingan dalam JavaScript
+  * Menggabungkan IF/Else dengan OR dan AND
+  * Logika Perulangan dalam JavaScript
+  * Tips Sikap Kerja untuk Cara Belajar Pemrograman
+  * Rangkuman Mengerti Konsep Dasar Pemrograman
+  * Kuis Mengerti Konsep Dasar Pemrograman
+
